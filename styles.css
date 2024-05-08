@@ -5,3 +5,10 @@ body {
   background-color: #5cfc77;
   font-family: "Lato", sans-serif;
 }
+
+.card {
+  width: 100px;
+  height: 100px;
+  display: flex;
+  flex-direction: column;
+}
